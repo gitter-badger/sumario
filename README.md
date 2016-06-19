@@ -1,4 +1,6 @@
 # Sumário
+
+[![Join the chat at https://gitter.im/UFRJ-POLI-DEL-EEL418/sumario](https://badges.gitter.im/UFRJ-POLI-DEL-EEL418/sumario.svg)](https://gitter.im/UFRJ-POLI-DEL-EEL418/sumario?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 (Portuguese word for syllabus in English)
 
 <b>1. Prerequisitos ou desejável:</b>
